@@ -32,7 +32,7 @@ const Checkout = () => {
                         </nav>
                         <h4 className='title total mb-0'>Contact Information</h4>
                         <p className='user-details total'>
-                            Arjav Barya (arjav@gmail.com)
+                            Harsh Katiyar 
                         </p>
                         <h4 className='mb-3'>Shipping Address</h4>
                         <form action='' className='d-flex gap-15 flex-wrap justify-content-between'>
